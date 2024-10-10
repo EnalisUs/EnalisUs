@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **khangnqit@gmail.com**
 
-- ⚡ Fun fact **I think I am so smart**
+- ⚡ Fun fact **I think I am a monster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
