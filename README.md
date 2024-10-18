@@ -13,7 +13,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/qu%E1%BB%91c-khang-nguy%E1%BB%85n-b0623721b/"><img src="https://img.shields.io/badge/-enalis?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/quoc-khang-nguyen-b0623721b/"><img src="https://img.shields.io/badge/-enalis?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khangnqit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge/khangnq&logo=gmail&logoColor="/></a>
 <a href="https://www.facebook.com/profile.php?id=100074870037080"><img src="https://img.shields.io/badge/-@khangnq?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
