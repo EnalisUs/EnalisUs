@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AI, Explainable AI and Software Engineering Stack**
 
-- 📫 How to reach me **khangnqit@gmail.com**
+- 📫 How to reach me **khangnqit@gmail.com** or **khangnq@korea.ac.kr**
 
 - ⚡ Fun fact **Too Math Too Money**
 
